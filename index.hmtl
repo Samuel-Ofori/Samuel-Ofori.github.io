@@ -94,7 +94,7 @@
         <h2>About Me</h2>
         <p>Hello! I am a passionate data scientist and developer who loves creating projects and exploring new technologies.</p>
         <!-- Replace with your actual profile image path -->
-        <img src="images/your-profile-picture.jpg" alt="My Profile Picture">
+        <img src="PassportPicture-Samuel Ofori.jpg" alt="My Profile Picture">
     </div>
 
     <!-- Projects Section -->
@@ -102,8 +102,8 @@
         <h2>Projects</h2>
         <p>Check out some of my recent work:</p>
         <!-- Replace with your actual project image paths -->
-        <a href="https://github.com/Samuel-Ofori/project1" target="_blank">
-            <img src="images/project1-image.jpg" alt="Project 1">
+        <a href="https://github.com/Samuel-Ofori/Water-quality-and-Infrastructure-Analysis" target="_blank">
+            <img src="images/project1-image.jpg" alt="Water quality">
         </a>
         <a href="https://github.com/Samuel-Ofori/project2" target="_blank">
             <img src="images/project2-image.jpg" alt="Project 2">
